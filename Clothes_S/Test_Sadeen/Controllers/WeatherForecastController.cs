@@ -8,7 +8,7 @@ namespace Test_Sadeen.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "s", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
