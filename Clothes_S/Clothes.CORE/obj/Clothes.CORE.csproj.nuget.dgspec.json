@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Test_Sadeen\\Test_Sadeen.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Clothes.CORE\\Clothes.CORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Test_Sadeen\\Test_Sadeen.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Clothes.CORE\\Clothes.CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Test_Sadeen\\Test_Sadeen.csproj",
-        "projectName": "Test_Sadeen",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Test_Sadeen\\Test_Sadeen.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Clothes.CORE\\Clothes.CORE.csproj",
+        "projectName": "Clothes.CORE",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Clothes.CORE\\Clothes.CORE.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Test_Sadeen\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Clothes_api\\Clothes_S\\Clothes.CORE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -47,14 +47,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
-            }
-          },
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -67,14 +61,11 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
