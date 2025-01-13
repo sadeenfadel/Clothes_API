@@ -1,3 +1,6 @@
+using Clothes.CORE.Common;
+using Clothes.Infra.Common;
+
 namespace clothes.API
 {
     public class Program
@@ -13,7 +16,11 @@ namespace clothes.API
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddScoped<IDbContext, DbContext>();
+
             var app = builder.Build();
+
+            
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

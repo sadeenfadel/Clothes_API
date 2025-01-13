@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\bin\Debug\net6.0\Clothes.CORE.deps.json
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\bin\Debug\net6.0\Clothes.CORE.dll
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\bin\Debug\net6.0\Clothes.CORE.pdb
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\Clothes.CORE.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\Clothes.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\Clothes.CORE.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\Clothes.CORE.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\Clothes.CORE.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\Clothes.CORE.sourcelink.json
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\Clothes.CORE.dll
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\refint\Clothes.CORE.dll
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\Clothes.CORE.pdb
+C:\Users\DELL\Desktop\Clothes_api\Clothes_S\Clothes.CORE\obj\Debug\net6.0\ref\Clothes.CORE.dll
