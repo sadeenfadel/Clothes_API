@@ -8,7 +8,7 @@ namespace clothes.API.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "I", "L", "O", "V", "E", " ", "Y", "O", "U"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
