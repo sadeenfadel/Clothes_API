@@ -1,5 +1,7 @@
 using Clothes.CORE.Common;
+using Clothes.CORE.Repository;
 using Clothes.Infra.Common;
+using Clothes.Infra.Repository;
 
 namespace clothes.API
 {
@@ -17,7 +19,7 @@ namespace clothes.API
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddScoped<IDbContext, DbContext>();
-
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
             var app = builder.Build();
 
             

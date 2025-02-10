@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clothes.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e126324668b620632ad129b2da4c0a27dbb8c95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5085204d4bef0c2ae61e897718ee349e188cd4f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clothes.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clothes.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
